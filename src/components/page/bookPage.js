@@ -1,8 +1,5 @@
 import React, {Component} from 'react';
 import ItemList from '../itemList';
-import ItemsDetails, {Field} from '../charDetails';
-import ErrorMessage from '../error';
-import PageRow from '../row';
 import GotService from '../../services/gotService'
 import {withRouter} from 'react-router-dom'
 
